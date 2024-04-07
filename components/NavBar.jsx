@@ -3,7 +3,7 @@ import React from "react"
 
 export default function Navbar() {
   return (
-    <div className="container mx-auto p-5">
+    <div className=" mx-auto bg-slate-50 p-10">
     <div className="md:flex md:flex-row md:justify-between text-center text-sm sm:text-base">
       <div className="flex flex-row justify-center">
       <h1 className="text-3xl text-black">Phuler</h1>

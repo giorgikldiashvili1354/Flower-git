@@ -8,7 +8,7 @@ export default function Body() {
   
 
 
-    <div className="bg-cover bg-center h-screen flex items-center " style={{backgroundImage: `url(${"img/img.jpg"})`}}>
+    <div className="bg-cover bg-center h-screen flex items-center " style={{backgroundImage: `url(${"https://htmldemo.net/phuler/phuler/assets/img/slider/slider-1.jpg"})`}}>
       <div className="bg-opacity-70 p-8 rounded-lg">
         <h1 className="text-4xl text-black mb-4">New Arrivals</h1>
         <p className="text-lg text-black mb-6">For Mother's Day</p>

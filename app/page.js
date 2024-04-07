@@ -8,7 +8,8 @@ export default function Home() {
 return (
   
   <>
-  <Nav/>
+  
+  <Nav />
   <div className="mx-auto border-t-2 w-5/6  "></div>
   <Navbar/>
   <Body/>
