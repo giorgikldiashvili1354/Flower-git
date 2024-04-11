@@ -1,5 +1,6 @@
 import Navbar from "@/components/NavBar";
 import Body from "@/components/body";
+import Card from "@/components/card";
 import Nav from "@/components/nav";
 
 
@@ -13,6 +14,7 @@ return (
   <div className="mx-auto border-t-2 w-5/6  "></div>
   <Navbar/>
   <Body/>
+  <Card/>
   </>
 )
 }
