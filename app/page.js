@@ -1,6 +1,8 @@
 import Navbar from "@/components/NavBar";
 import Body from "@/components/body";
 import Card from "@/components/card";
+import Jiz from "@/components/jiz";
+import Lomk from "@/components/lomk";
 import Nav from "@/components/nav";
 
 
@@ -15,6 +17,8 @@ return (
   <Navbar/>
   <Body/>
   <Card/>
+  <Lomk/>
+  <Jiz/>
   </>
 )
 }
